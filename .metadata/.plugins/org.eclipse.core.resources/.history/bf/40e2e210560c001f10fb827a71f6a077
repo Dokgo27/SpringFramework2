@@ -1,0 +1,6 @@
+package com.office.library.admin.member;
+
+@Service
+public class AdminMemberService {
+
+}

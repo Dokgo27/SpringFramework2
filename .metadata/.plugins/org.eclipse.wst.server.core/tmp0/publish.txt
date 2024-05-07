@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue May 07 18:34:45 KST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\dokgo\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\Users\\dokgo\\Desktop\\dokgo\\2024.1\\\uC790\uBC14 \uC751\uC6A9\uD504\uB85C\uADF8\uB798\uBC0D\\apache-tomcat-9.0.73\\wtpwebapps\\BookRentalPjt\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:BookRentalPjt=C\:\\Users\\dokgo\\Desktop\\dokgo\\2024.1\\\uC790\uBC14 \uC751\uC6A9\uD504\uB85C\uADF8\uB798\uBC0D\\apache-tomcat-9.0.73\\wtpwebapps\\BookRentalPjt
+org.eclipse.jst.jee.server\:ch07_pjt_01=C\:\\Users\\dokgo\\Desktop\\dokgo\\2024.1\\\uC790\uBC14 \uC751\uC6A9\uD504\uB85C\uADF8\uB798\uBC0D\\apache-tomcat-9.0.73\\wtpwebapps\\ch07_pjt_01

@@ -1,0 +1,9 @@
+package com.office.library.admin.member;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+@RequestMapping("admin/member")
+public class AdminMemberController {
+
+}
