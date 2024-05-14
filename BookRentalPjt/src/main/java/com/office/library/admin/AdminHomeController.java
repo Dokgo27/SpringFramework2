@@ -11,6 +11,8 @@ public class AdminHomeController {
 	@RequestMapping(value = {"", "/"}, method = RequestMethod.GET)
 	public String home() {
 		
+		System.out.println("[AdminHomeController] home()");
+		
 		String nextPage = "admin/home";
 		
 		return nextPage;

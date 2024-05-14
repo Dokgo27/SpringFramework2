@@ -47,9 +47,9 @@
 						<option value="0">UNABLE.</option>
 						<option value="1">ABLE.</option>
 					</select><br>
-					<input type="file"		name="file"><br>
-					<input type="button"	value="register book" onclick="registerHopeBookForm();"> 
-					<input type="reset"		value="reset">
+					<input type="file" name="file"><br>
+					<input type="button" value="register book" onclick="registerHopeBookForm();"> 
+					<input type="reset" value="reset">
 					
 				</form>
 				
